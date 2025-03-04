@@ -1,10 +1,17 @@
 *   **Languages:**
-    *   🌸 LuaU
     *   🔮 C++
+    *   🌸 LuaU
 
 *   **Software:**
     *   ✨ Visual Studio Code
-    *   🌈 Roblox Studio
     *   🌸 x64dbg
-    *   🔮 IDA Pro
-    *   🌱 ReClass.NET
+    *   🧪 IDA Pro
+    *   📦 ReClass.NET
+    *   🌈 Roblox Studio
+
+*   **Skills:**
+    *   🗝️ Reverse Engineering
+    *   🧬 Memory Manipulation
+    *   🩹 Debugging
+    *   🎨 Game Development
+
