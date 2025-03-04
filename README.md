@@ -1,7 +1,3 @@
-# 🎀 cutiekei 🎀
-
-Hello! I'm Kei.
-
 *   **Languages:**
     *   🌸 LuaU
     *   🔮 C++
