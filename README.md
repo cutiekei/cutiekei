@@ -7,7 +7,7 @@ Hello! I'm Kei.
     *   🔮 C++
 
 *   **Software:**
-    *   ✨ Visual Studio
+    *   ✨ Visual Studio Code
     *   🌈 Roblox Studio
     *   🌸 x64dbg
     *   🔮 IDA Pro
