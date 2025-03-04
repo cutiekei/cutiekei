@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🎀 cutiekei 🎀
 
-<!--
-**cutiekei/cutiekei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Kei.
 
-Here are some ideas to get you started:
+*   **Languages:**
+    *   🌸 LuaU
+    *   🔮 C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Software:**
+    *   ✨ Visual Studio
+    *   🌈 Roblox Studio
+    *   🌸 x64dbg
+    *   🔮 IDA Pro
+    *   🌱 ReClass.NET
