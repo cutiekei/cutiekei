@@ -11,6 +11,7 @@
 
 *   **Skills:**
     *   🎨 Game Development
+    *   🖌️ Game Design
     *   🩹 Debugging
     *   🧬 Memory Manipulation
     *   🗝️ Reverse Engineering
