@@ -1,6 +1,11 @@
-<h2 align="left">Hi, I'm Kei</h2>
+<h1 align="left">Hi, I'm Kei</h1>
 <p align="left">
-   I am currently studying Computer Science and Game Design. Working as a Junior Developer @Vesteria.
+   I am currently studying Computer Science and Game Design.
+</p>
+
+<h3 align="left">Experience:</h3>
+<p align="left">
+   Working as a Junior Developer @Vesteria since April 2025.
 </p>
 
 <h3 align="left">Languages:</h3>
