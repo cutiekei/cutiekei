@@ -5,7 +5,7 @@
 
 <h3 align="left">Experience:</h3>
 <p align="left">
-   Working as a Junior Developer @Vesteria since April 2025.
+   Working as a Developer @Vesteria since April 2025.
 </p>
 
 <h3 align="left">Languages:</h3>
