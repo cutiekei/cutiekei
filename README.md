@@ -33,5 +33,4 @@
 <h3 align="left">Find me:</h3>
 <p align="left">
    Discord: ruined.prince<br>
-   Roblox: <a href="https://www.roblox.com/users/89811502/profile">alphynaud</a>
 </p>
