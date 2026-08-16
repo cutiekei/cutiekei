@@ -1,12 +1,12 @@
-<h1 align="left">Hi, I'm Kei</h1>
+<h1 align="left">Hi, I'm Rae</h1>
 <p align="left">
    Studying Computer Science and Game Design.
 </p>
 
 <h3 align="left">Experience:</h3>
 <p align="left">
-   Founder of Otterly Awesome — January 2026 to present<br>
-   Developer at Vesteria — April 2025 to present
+   Co-Founder of Otterly Awesome — January 2026 to present<br>
+   Developer at Vesteria — April 2025 to August 2026
 </p>
 
 <h3 align="left">Interests:</h3>
